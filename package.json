@@ -1,0 +1,16 @@
+{
+  "name": "galaxygenerator",
+  "version": "0.1.0",
+  "description": "",
+  "main": "generators/galaxyrender.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dnesov",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "babylonjs": "^3.2.0",
+    "babylonjs-materials": "^3.2.0"
+  }
+}
